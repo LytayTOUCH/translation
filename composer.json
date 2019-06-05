@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/translation",
+    "name": "korkoinvt/translation",
     "description": "Translation manager for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "translation", "lang"],
-    "homepage": "https://github.com/laravel-admin-extensions/translation",
+    "homepage": "https://github.com/korkoinvt/translation",
     "license": "MIT",
     "authors": [
         {
